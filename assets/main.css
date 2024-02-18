@@ -1,0 +1,29 @@
+/* main.css */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding-bottom: 5rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+#button-row {
+  background-color: #fff;
+  border-top: solid 1px;
+  padding: 1rem;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  /* margin: 1rem; */
+  /* margin-inline: auto; */
+  /* width: 100%; */
+}
